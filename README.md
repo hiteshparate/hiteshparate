@@ -46,6 +46,6 @@
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
 ### Some stats about me
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=hiteshparate&show_icons=true&theme=merko"  > </p>
+<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=hiteshparate&show_icons=true&theme=light"  > </p>
 
 ⭐️ From [Hitesh Parate](https://github.com/hiteshparate)
