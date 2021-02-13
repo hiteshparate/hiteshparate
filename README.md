@@ -1,11 +1,12 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<a href="https://www.linkedin.com/in/darshan-j-236793121/">
+<a href="https://www.linkedin.com/in/hiteshparate/">
   <a href="https://imgbb.com/"><img align="left" width="30px" src="https://i.ibb.co/xHfTWQv/linkedin-bounce.gif" alt="linkedin-bounce" border="0"></a>
 </a>
-<a href="https://github.com/darshan-jain">
-  <img align="left" alt="Darshan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/hiteshparate">
+  
+  <img align="left" alt="Hitesh-Github" width="30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" />
 </a>
 
 
