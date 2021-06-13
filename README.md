@@ -17,7 +17,7 @@
 ### I am Hitesh Parate
 - A Full-Stack Developer looking for job
 - Graduated from University of Windsor in Computer Engineering
-- Currently working on some of the full stack web application [socialape](https://socialape-bf36f.firebaseapp.com/), [Movie Search](https://hiteshparate.github.io/moviesearch/)
+- My recent full stack web application [socialape](https://socialape-bf36f.firebaseapp.com/), [Movie Search](https://hiteshparate.github.io/moviesearch/)
 - I'm currently looking for opportunities. 
 ### Tech & Tools Preference
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
