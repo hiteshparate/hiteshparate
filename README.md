@@ -12,7 +12,6 @@
 
 
 <br />
-<a href="https://ibb.co/CQSYv26"><img align="right" width="400px" src="https://i.ibb.co/rHXzMs3/undraw-profile-6l1l.png" alt="undraw-profile-6l1l" border="0"></a>
 
 ### I am Hitesh Parate
 - A Full-Stack Developer looking for job
