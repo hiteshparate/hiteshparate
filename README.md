@@ -19,8 +19,6 @@
 - My recent full stack web application [socialape](https://socialape-bf36f.firebaseapp.com/), [Movie Search](https://hiteshparate.github.io/moviesearch/)
 - I'm currently looking for opportunities. 
 ### Tech & Tools Preference
-![Google Cloud Platform]()
-![Terraform]()
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-angular-FF0000?style=flat-square&logo=angular)
