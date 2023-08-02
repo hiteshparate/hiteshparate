@@ -15,6 +15,7 @@
 
 ### I am Hitesh Parate
 - Working as a Software Developer in HCL Technologies
+- I have skills in Google cloud platform, Terraform(IAC), web development and programming
 - Graduated from University of Windsor in Computer Engineering
 - My recent full stack web application [socialape](https://socialape-bf36f.firebaseapp.com/), [Movie Search](https://hiteshparate.github.io/moviesearch/)
 - I'm currently looking for opportunities. 
